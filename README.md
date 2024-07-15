@@ -1,7 +1,7 @@
 # Hi, I'm Cam 👋
 
 ## About Me
-I'm a third-year Computer Engineering student passionate about learning and building robust applications.
+I'm a third-year student at Texas A&M University pursuing a bachelor's degree in Computer Engineering and a minor in Mathematics that is passionate about learning and building robust applications.
 
 ## What I'm Up To
 - Building AggieStudy: A Spring Boot application with PostgreSQL and React
